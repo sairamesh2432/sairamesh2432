@@ -1,33 +1,33 @@
 # Hi, I'm Sai! 👋
 
-<!-- insert yosemite image -->
-<!-- center image -->
 <p >
   <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
-  <img src="./assets/msu.png" alt="Yosemite" width="45.4%" height="50%">
+  <img src="./assets/msu.png" alt="MSU" width="45.4%" height="50%">
 </p>
-<!-- <img src="./assets/yosemite.png" alt="Yosemite" width="50%" height="50%"> -->
 
 
 Welcome to my portfolio page! I'm super excited to have you along for the ride 🏄
 
-<!-- ## Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom) -->
 
 ## About Me
 
-I am a current Master's student at MSU and aspiring data scientist. 
+### Who I am:
+- Master's student in [Computer Science](https://cse.msu.edu/) at Michigan State University
+- Aspiring data scientist and machine learning practitioner 
 
-I am passionate about:
+
+ ### What I'm passionate about:
 
 - 🤖 Machine Learning
 - 📈 A/B Testing and Experimentation
 - 📚 Using data science to drive large-scale business decisions
 
-I am currently looking for full-time data science roles starting in Summer 2024. I would love to connect with you if you think I would be a good fit for your team!
+
+### What I'm looking for:
+
+- 🏢 Full-time data science roles starting in **Summer 2024**
+- Connect with me if you think I would be a good fit for your team! 
+
 
 ## Companies I've Worked With
 <!-- align images left to right -->
@@ -59,7 +59,7 @@ I am currently looking for full-time data science roles starting in Summer 2024.
 
 ## Resume 
 
-You can find more details about my work experience and projects in my [resume](./Sai_Ramesh_resume.pdf).
+You can find more details about my work experience, skills and projects in my [resume](./Sai_Ramesh_resume.pdf).
  
 
 ## 📫 How to reach me:
@@ -71,17 +71,3 @@ Please feel free to reach out to me via email or LinkedIn if you have any questi
 **LinkedIn**: [linkedin.com/in/sairamesh2432](https://linkedin.com/in/sairamesh2432)
 
 
-<!--
-**sairamesh2432/sairamesh2432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
