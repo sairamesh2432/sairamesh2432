@@ -1,5 +1,9 @@
 # Hi, I'm Sai! 👋
 
+<!-- insert yosemite image -->
+<img src="./assets/yosemite.png" alt="Yosemite" width="50%" height="50%">
+
+
 Welcome to my portfolio! I'm super glad to have you along for the ride 🏄
 
 ## Table of Contents
