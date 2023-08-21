@@ -26,7 +26,8 @@ Welcome to my portfolio page! I'm super excited to have you along for the ride 
 ### What I'm looking for:
 
 - üè¢ Full-time data science roles starting in **Summer 2024**
-- Connect with me if you think I would be a good fit for your team! 
+
+Connect with me if you think I would be a good fit for your team! 
 
 
 ## Companies I've Worked With
@@ -44,9 +45,9 @@ Welcome to my portfolio page! I'm super excited to have you along for the ride 
 
 
 
-- #### [Atlassian](https://www.atlassian.com/)- Data Science Intern (Summer 2023)
-- #### [Ford Motor Company](https://www.ford.com/)- Data Science Intern (Summer 2021 and Summer 2022)
-- #### [Delta Dental Insurance](https://www.deltadental.com/)- Data Science Capstone Project (Spring 2022)
+- **[Atlassian](https://www.atlassian.com/)**- Data Science Intern (Summer 2023)
+- **[Ford Motor Company](https://www.ford.com/)**- Data Science Intern (Summer 2021 and Summer 2022)
+- **[Delta Dental Insurance](https://www.deltadental.com/)**- Data Science Capstone Project (Spring 2022)
 
 
 ## Career Highlights
