@@ -27,7 +27,7 @@ Welcome to my portfolio page! I'm super excited to have you along for the ride ğ
 
 - ğŸ¢ Full-time data science roles starting in **Summer 2024**
 
-Connect with me if you think I would be a good fit for your team! 
+[Connect](https://linkedin.com/in/sairamesh2432) with me if you think I would be a good fit for your team! 
 
 
 ## Companies I've Worked With
