@@ -12,14 +12,14 @@ Welcome to my portfolio page! I'm super excited to have you along for the ride �
 ## About Me
 
 ### Who I am:
-- Master's student in [Computer Science](https://cse.msu.edu/) at Michigan State University
-- Aspiring data scientist and machine learning practitioner 
+- Master's student in [Computer Science](https://cse.msu.edu/) at Michigan State University 🟢⚪
+- Aspiring data scientist and machine learning practitioner 📊
 
 
  ### What I'm passionate about:
 
 - 🤖 Machine Learning
-- 📈 A/B Testing and Experimentation
+- 🧪 A/B Testing and Experimentation
 - 📚 Using data science to drive large-scale business decisions
 
 
@@ -68,7 +68,7 @@ You can find more details about my work experience, skills and projects in my [r
 Please feel free to reach out to me via email or LinkedIn if you have any questions or would like to connect!
 
 
-**Email**: rameshs5@msu.edu  
-**LinkedIn**: [linkedin.com/in/sairamesh2432](https://linkedin.com/in/sairamesh2432)
+📧**Email**: rameshs5@msu.edu  
+🔗**LinkedIn**: [linkedin.com/in/sairamesh2432](https://linkedin.com/in/sairamesh2432)
 
 
