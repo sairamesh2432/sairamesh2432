@@ -63,7 +63,7 @@ Welcome to my portfolio page! I'm super excited to have you along for the ride �
 You can find more details about my work experience, skills and projects in my [resume](./Sai_Ramesh_resume.pdf).
  
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 Please feel free to reach out to me via email or LinkedIn if you have any questions or would like to connect!
 
