@@ -1,12 +1,24 @@
-# Data Science and Machine Learning Portfolio
+# Hi, I'm Sai! 👋
+
+Welcome to my portfolio! I'm super glad to have you along for the ride 🏄
+
+## Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 ## About Me
+
+I am a current graduate student  
 
 I am Sai Ramesh, a dedicated and accomplished data scientist with a passion for leveraging data to drive insights and solve complex problems. Currently pursuing a Master's degree in Computer Science from Michigan State University, I also hold a Bachelor's degree in Computational Data Science. With a strong academic foundation and practical experience, I am committed to delivering innovative solutions through data-driven approaches.
 
 [LinkedIn](https://linkedin.com/in/sairamesh2432) | [GitHub](https://github.com/sairamesh2432)
 
-## Projects
+## Experience
+
+
 
 ### Project 1: HybridSPRT - A/B Test Experiment Optimization
 - **Description**: Developed the HybridSPRT, a sequential testing algorithm to reduce A/B test experiment runtimes by up to 60%. Created a detailed report on the method, leading to a publication on the Data@Atlassian Medium blog (in-progress).
