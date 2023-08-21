@@ -2,12 +2,14 @@
 
 <!-- insert yosemite image -->
 <!-- center image -->
-<p align="center">
-  <img src="./assets/yosemite.png" alt="Yosemite" width="50%" height="50%">
+<p >
+  <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
+  <img src="./assets/msu.png" alt="Yosemite" width="45.4%" height="50%">
+</p>
 <!-- <img src="./assets/yosemite.png" alt="Yosemite" width="50%" height="50%"> -->
 
 
-Welcome to my portfolio! I'm super excited to have you along for the ride 🏄
+Welcome to my portfolio page! I'm super excited to have you along for the ride 🏄
 
 <!-- ## Table of Contents
 1. [Example](#example)
@@ -24,6 +26,8 @@ I am passionate about:
 - 🤖 Machine Learning
 - 📈 A/B Testing and Experimentation
 - 📚 Using data science to drive large-scale business decisions
+
+I am currently looking for full-time data science roles starting in Summer 2024. I would love to connect with you if you think I would be a good fit for your team!
 
 ## Companies I've Worked With
 <!-- align images left to right -->
@@ -50,44 +54,21 @@ I am passionate about:
 - Creating a novel algorithm to help Atlassian reduce A/B test runtimes by up to **60%** 📈
 - Building an end-to-end machine learning workflow to predict database job runtimes in real-time at Ford Motor Company 🤖
 - Using computer vision to accurately detect and map traffic objects for the Ford AV Mapping Team 🚗
+- Developing a synthetic data generation pipeline to help Delta Dental improve their data science workflows 🦷
 
-<!-- ##  Work Experience
+
+## Resume 
+
+You can find more details about my work experience and projects in my [resume](./Sai_Ramesh_resume.pdf).
+ 
+
+## 📫 How to reach me:
+
+Please feel free to reach out to me via email or LinkedIn if you have any questions or would like to connect!
 
 
-### Project 1: HybridSPRT - A/B Test Experiment Optimization
-- **Description**: Developed the HybridSPRT, a sequential testing algorithm to reduce A/B test experiment runtimes by up to 60%. Created a detailed report on the method, leading to a publication on the Data@Atlassian Medium blog (in-progress).
-- **GitHub Repository**: [HybridSPRT](https://github.com/sairamesh2432/hybridsprt)
-- **Summary**: Implemented HybridSPRT in Python, documented extensively, and validated using Databricks notebook. Reduced experiment runtimes by over 20 days.
-- **Skills**: Python, A/B Testing, Data Analysis, Databricks, Statistical Methods
-
-### Project 2: Real-time Database Job Runtimes Prediction
-- **Description**: Productionized an end-to-end machine learning workflow to predict runtimes of key database jobs in real-time at Ford Motor Company. Reduced time needed to inform stakeholders of long-running jobs by over 90%.
-- **GitHub Repository**: [Real-time Runtimes Prediction](https://github.com/sairamesh2432/realtime-runtimes-prediction)
-- **Summary**: Created a Python module, Flask API, and Docker container for model deployment. Achieved 100% evaluation score and collaborated with cross-functional teams.
-- **Skills**: Machine Learning, Python, Flask, Docker, Collaboration
-
-### Project 3: Autonomous Vehicle Mapping with Faster R-CNN
-- **Description**: Trained a PyTorch-based Faster R-CNN object detection model to detect traffic objects. Utilized K-means clustering to geotag traffic objects with <1-meter error from real-world location.
-- **GitHub Repository**: [Autonomous Vehicle Mapping](https://github.com/sairamesh2432/autonomous-vehicle-mapping)
-- **Summary**: Developed reusable Python codebase and presented results to Ford's AI Advancement Center. Improved object detection and mapping accuracy.
-- **Skills**: Deep Learning, PyTorch, Computer Vision, Python -->
-
-## Skills
-
-- Programming Languages: Python, SQL, R, Docker, Git, Unix, Flask
-- Data Science Tools: Pandas, NumPy, Matplotlib, Databricks Notebooks, Scikit-learn, PyTorch, DataRobot
-- Machine Learning: A/B Testing, Linear Regression, Decision Trees, Neural Networks
-
-## Education
-
-- **Master of Science**: Major in Computer Science, Michigan State University (Expected Graduation: December 2023)
-- **Bachelor of Science**: Major in Computational Data Science, Michigan State University (Graduated: May 2022)
-- **Honors**: Distinguished Freshman Scholarship, MSU Dean’s List (all semesters)
-
-## 📫 How to reach me: ...
-
-Email: rameshs5@msu.edu  
-LinkedIn: [linkedin.com/in/sairamesh2432](https://linkedin.com/in/sairamesh2432)
+**Email**: rameshs5@msu.edu  
+**LinkedIn**: [linkedin.com/in/sairamesh2432](https://linkedin.com/in/sairamesh2432)
 
 
 <!--
