@@ -40,9 +40,9 @@ I am passionate about:
 
 
 
-- ### [Atlassian](https://www.atlassian.com/)- Data Science Intern (Summer 2023)
-- ### [Ford Motor Company](https://www.ford.com/)- Data Science Intern (Summer 2021 and Summer 2022)
-- ### [Delta Dental Insurance](https://www.deltadental.com/)- Data Science Capstone Project (Spring 2022)
+- #### [Atlassian](https://www.atlassian.com/)- Data Science Intern (Summer 2023)
+- #### [Ford Motor Company](https://www.ford.com/)- Data Science Intern (Summer 2021 and Summer 2022)
+- #### [Delta Dental Insurance](https://www.deltadental.com/)- Data Science Capstone Project (Spring 2022)
 
 
 ## Career Highlights
