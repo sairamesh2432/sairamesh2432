@@ -13,7 +13,7 @@ Welcome to my portfolio page! I'm super excited to have you along for the ride �
 
 ### Who I am:
 - Master's student in [Computer Science](https://cse.msu.edu/) at Michigan State University 🟢⚪
-- Aspiring data scientist and machine learning practitioner 📊
+- Aspiring Data Scientist and Machine Learning practitioner 📊
 
 
  ### What I'm passionate about:
