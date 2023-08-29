@@ -20,7 +20,7 @@ Welcome to my portfolio page! I'm super excited to have you along for the ride �
 
 - 🤖 Machine Learning
 - 🧪 A/B Testing and Experimentation
-- 📚 Using data science to drive large-scale business decisions
+- 📚 Using insights from data to drive large-scale business decisions
 
 
 ### What I'm looking for:
