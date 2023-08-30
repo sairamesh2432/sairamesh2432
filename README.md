@@ -1,4 +1,6 @@
-# Hi, I'm Sai! 👋
+<h1>
+Hi, I'm Sai! 👋
+</h1>
 
 <p align="center">
   <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
