@@ -1,3 +1,10 @@
+
+
+<p align="center">
+  <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
+  <img src="./assets/msu.png" alt="MSU" width="45.4%" height="50%">
+</p>
+
 <div id="badges" align="center">
 <h1 align="center">
 Hi, I'm Sai! 👋
@@ -11,11 +18,6 @@ Hi, I'm Sai! 👋
 <!-- https://img.shields.io/badge/Resume-orange?style=for-the-badge -->
 </a>
 </div>
-
-<p align="center">
-  <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
-  <img src="./assets/msu.png" alt="MSU" width="45.4%" height="50%">
-</p>
 
 
 
