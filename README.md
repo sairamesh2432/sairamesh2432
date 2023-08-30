@@ -1,8 +1,7 @@
+<div id="badges" align="center">
 <h1 align="center">
 Hi, I'm Sai! 👋
 </h1>
-
-<div id="badges" align="center">
 <a href="https://www.linkedin.com/in/sairamesh2432/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
 </a>
