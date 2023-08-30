@@ -2,11 +2,6 @@
 Hi, I'm Sai! 👋
 </h1>
 
-<p align="center">
-  <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
-  <img src="./assets/msu.png" alt="MSU" width="45.4%" height="50%">
-</p>
-
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/sairamesh2432/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
@@ -17,6 +12,13 @@ Hi, I'm Sai! 👋
 <!-- https://img.shields.io/badge/Resume-orange?style=for-the-badge -->
 </a>
 </div>
+
+<p align="center">
+  <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
+  <img src="./assets/msu.png" alt="MSU" width="45.4%" height="50%">
+</p>
+
+
 
 
 Welcome to my portfolio page! I'm super excited to have you along for the ride 🏄
