@@ -8,8 +8,13 @@ Hi, I'm Sai! 👋
 </p>
 
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/nategu72/" align="center">
+<a href="https://www.linkedin.com/in/sairamesh2432/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+</a>
+
+<a href="https://github.com/sairamesh2432/sairamesh2432/blob/main/Sai_Ramesh_resume.pdf" align="center">
+  <img src="https://img.shields.io/badge/Resume-orange?style=for-the-badge" alt="Resume Badge"/>
+<!-- https://img.shields.io/badge/Resume-orange?style=for-the-badge -->
 </a>
 </div>
 
