@@ -5,9 +5,11 @@
   <img src="./assets/msu.png" alt="MSU" width="45.4%" height="50%">
 </p>
 
+<div id="badges" align="center">
 <a href="https://www.linkedin.com/in/nategu72/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
 </a>
+</div>
 
 
 Welcome to my portfolio page! I'm super excited to have you along for the ride 🏄
