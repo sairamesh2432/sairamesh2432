@@ -4,20 +4,20 @@
   <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
   <img src="./assets/msu.png" alt="MSU" width="45.4%" height="50%">
 </p>
-</div>
-
-<div id="badges" align="center">
-<h1 align="center">
-Hi, I'm Sai! 👋
-</h1>
 <a href="https://www.linkedin.com/in/sairamesh2432/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
 </a>
 
 <a href="https://github.com/sairamesh2432/sairamesh2432/blob/main/Sai_Ramesh_resume.pdf" align="center">
   <img src="https://img.shields.io/badge/Resume-orange?style=for-the-badge" alt="Resume Badge"/>
-<!-- https://img.shields.io/badge/Resume-orange?style=for-the-badge -->
 </a>
+</div>
+
+<div id="badges" align="center">
+<h1 align="center">
+Hi, I'm Sai! 👋
+</h1>
+
 </div>
 
 
