@@ -1,6 +1,6 @@
 # Hi, I'm Sai! 👋
 
-<p >
+<p align="center">
   <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="50%">
   <img src="./assets/msu.png" alt="MSU" width="45.4%" height="50%">
 </p>
