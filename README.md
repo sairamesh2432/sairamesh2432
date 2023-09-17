@@ -1,8 +1,8 @@
 
 <div id="profile_pics" align="center">
 <p align="center">
-  <img src="./assets/yosemite.png" alt="Yosemite" width="35%" height="35%">
-  <img src="./assets/msu.png" alt="MSU" width="35.4%" height="35%">
+  <img src="./assets/yosemite.png" alt="Yosemite" width="45%" height="45%">
+  <img src="./assets/msu.png" alt="MSU" width="45.4%" height="45%">
 </p>
 <a href="https://www.linkedin.com/in/sairamesh2432/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
